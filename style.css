@@ -1,5 +1,6 @@
 body{
     padding:25px;
+    flex-wrap: wrap;
 }
 .header{
     background-color: black;
